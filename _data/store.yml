@@ -1,7 +1,7 @@
 brand:
-  name: "Jekyll Commerce"
-  tagline: "A modern storefront built with Jekyll"
-  logo: "/assets/images/logo.svg"
+  name: "Pinnacle Fitness Brand"
+  tagline: "Fitness goods with personality."
+  logo: "/assets/images/logo.png"
 
 theme:
   primary: "#111111"
@@ -18,7 +18,7 @@ announcement:
   text: "Free shipping on orders over $50"
 
 contact:
-  email: "support@example.com"
+  email: "info@mthpinnaclellc.com"
 
 social:
   instagram: ""
@@ -49,25 +49,20 @@ policies:
     enabled: true
     
 collections:
-  - handle: shirts
-    title: "Shirts"
-    description: "Everyday tees and apparel."
+  - handle: mens
+    title: "MENS"
+    description: "Everyday tees and apparel for men."
     image: "/assets/images/collections/shirts.png"
 
-  - handle: drinkware
-    title: "Drinkware"
-    description: "Mugs, tumblers, and everyday drinkware."
+  - handle: womens
+    title: "WOMENS"
+    description: "Everyday tees and apparel for wommen."
     image: "/assets/images/collections/drinkware.png"
 
-  - handle: best-sellers
-    title: "Best Sellers"
-    description: "Customer favorites from across the collection."
-    image: "/assets/images/collections/best-sellers.png"
-  
 homepage:
   hero:
     eyebrow: "NEW COLLECTION"
-    heading: "Built for the Weekend."
+    heading: "Not Built for the Weak."
     text: "Everyday essentials designed for wherever the day takes you."
     button_label: "Shop the Collection"
     button_url: "/shop/"
