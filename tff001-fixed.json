@@ -1,0 +1,279 @@
+﻿{
+  "id": "TFF-001",
+  "name": "Tattoos Fitness & Faith T-Shirt | Graphic Back Text Tee",
+  "variants": [
+    {
+      "sku": "TFF-001-RED-XL",
+      "price": 3999,
+      "options": {
+        "color": "Red",
+        "size": "XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12025
+      }
+    },
+    {
+      "sku": "TFF-001-SPORT-GREY-XL",
+      "price": 3999,
+      "options": {
+        "color": "Sport Grey",
+        "size": "XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12073
+      }
+    },
+    {
+      "sku": "TFF-001-RED-M",
+      "price": 3999,
+      "options": {
+        "color": "Red",
+        "size": "M"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12023
+      }
+    },
+    {
+      "sku": "TFF-001-ASH-XL",
+      "price": 3999,
+      "options": {
+        "color": "Ash",
+        "size": "XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 42719
+      }
+    },
+    {
+      "sku": "TFF-001-ASH-S",
+      "price": 3999,
+      "options": {
+        "color": "Ash",
+        "size": "S"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 42716
+      }
+    },
+    {
+      "sku": "TFF-001-SPORT-GREY-M",
+      "price": 3999,
+      "options": {
+        "color": "Sport Grey",
+        "size": "M"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12071
+      }
+    },
+    {
+      "sku": "TFF-001-ASH-L",
+      "price": 3999,
+      "options": {
+        "color": "Ash",
+        "size": "L"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 42718
+      }
+    },
+    {
+      "sku": "TFF-001-ASH-M",
+      "price": 3999,
+      "options": {
+        "color": "Ash",
+        "size": "M"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 42717
+      }
+    },
+    {
+      "sku": "TFF-001-RED-S",
+      "price": 3999,
+      "options": {
+        "color": "Red",
+        "size": "S"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12024
+      }
+    },
+    {
+      "sku": "TFF-001-SPORT-GREY-L",
+      "price": 3999,
+      "options": {
+        "color": "Sport Grey",
+        "size": "L"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12070
+      }
+    },
+    {
+      "sku": "TFF-001-RED-L",
+      "price": 3999,
+      "options": {
+        "color": "Red",
+        "size": "L"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12022
+      }
+    },
+    {
+      "sku": "TFF-001-SPORT-GREY-S",
+      "price": 3999,
+      "options": {
+        "color": "Sport Grey",
+        "size": "S"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12072
+      }
+    },
+    {
+      "sku": "TFF-001-SPORT-GREY-2XL",
+      "price": 3999,
+      "options": {
+        "color": "Sport Grey",
+        "size": "2XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12074
+      }
+    },
+    {
+      "sku": "TFF-001-ASH-2XL",
+      "price": 3999,
+      "options": {
+        "color": "Ash",
+        "size": "2XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 42720
+      }
+    },
+    {
+      "sku": "TFF-001-RED-2XL",
+      "price": 3999,
+      "options": {
+        "color": "Red",
+        "size": "2XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12026
+      }
+    },
+    {
+      "sku": "TFF-001-ASH-3XL",
+      "price": 3999,
+      "options": {
+        "color": "Ash",
+        "size": "3XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 42721
+      }
+    },
+    {
+      "sku": "TFF-001-SPORT-GREY-3XL",
+      "price": 3999,
+      "options": {
+        "color": "Sport Grey",
+        "size": "3XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 12075
+      }
+    },
+    {
+      "sku": "TFF-001-SPORT-GREY-4XL",
+      "price": 3999,
+      "options": {
+        "color": "Sport Grey",
+        "size": "4XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 24021
+      }
+    },
+    {
+      "sku": "TFF-001-ASH-4XL",
+      "price": 3999,
+      "options": {
+        "color": "Ash",
+        "size": "4XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 42722
+      }
+    },
+    {
+      "sku": "TFF-001-SPORT-GREY-5XL",
+      "price": 3999,
+      "options": {
+        "color": "Sport Grey",
+        "size": "5XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 24153
+      }
+    },
+    {
+      "sku": "TFF-001-ASH-5XL",
+      "price": 3999,
+      "options": {
+        "color": "Ash",
+        "size": "5XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac41ab791f20c24e40bbe5f",
+        "variantId": 42723
+      }
+    }
+  ]
+}

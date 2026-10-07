@@ -62,6 +62,7 @@ select {
 .page-width {
   width: min(100% - 40px, 1400px);
   margin-inline: auto;
+  margin-left: max(48px, calc((100vw - 1400px) / 2));
 }
 
 main {
@@ -189,6 +190,14 @@ p {
 
 .site-header__brand-name {
   display: inline-block;
+}
+
+.site-header__logo {
+  display: block;
+  width: auto;
+  height: 65px;
+  max-width: 280px;
+  object-fit: contain;
 }
 
 .main-navigation {
@@ -341,7 +350,6 @@ p {
 
 .hero .page-width {
   max-width: 900px;
-  margin-left: max(20px, calc((100vw - 1400px) / 2));
 }
 
 .hero__eyebrow {
@@ -366,7 +374,12 @@ p {
   font-size: 1.15rem;
   color: #555555;
 }
-
+@media (max-width: 768px) {
+  .page-width {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
 
 /* ---------------------------------------------------------
    Generic Page Content
@@ -1086,6 +1099,7 @@ body.cart-open {
 
 .product-gallery__thumbs {
   display: flex;
+  flex-wrap: wrap;
 
   gap: 12px;
 
@@ -1502,7 +1516,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   Phase 13 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Homepage
+   Phase 13 — Homepage
    ========================================================= */
 
 .home-hero {
@@ -1800,7 +1814,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   Phase 13 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Checkout
+   Phase 13 — Checkout
    ========================================================= */
 
 .checkout-page {
@@ -2047,7 +2061,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   PHASE 13 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â SHOP & PRODUCT POLISH
+   PHASE 13 — SHOP & PRODUCT POLISH
    ========================================================= */
 
 
@@ -2163,7 +2177,13 @@ body.cart-open {
   .shop-page__header h1 {
     font-size: clamp(2.75rem, 10vw, 4rem);
   }
+	.collection-page__banner {
+	  margin-top: 24px;
+	}
 
+	.collection-page__banner img {
+	  height: 240px;
+	}
 }
 
 
@@ -2184,7 +2204,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   PHASE 13 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â COLLECTIONS
+   PHASE 13 — COLLECTIONS
    ========================================================= */
 
 
@@ -2258,7 +2278,6 @@ body.cart-open {
 
 .collection-page__header {
   width: 100%;
-
   margin-bottom: 50px;
 }
 
@@ -2274,14 +2293,13 @@ body.cart-open {
 }
 
 .collection-page__header h1 {
-  max-width: 900px;
   margin: 0 0 18px;
 
   font-size: clamp(3rem, 5vw, 4.75rem);
   font-weight: 500;
 
   line-height: 1;
-
+	max-width: 900px;
   letter-spacing: -0.045em;
 }
 
@@ -2295,7 +2313,6 @@ body.cart-open {
   font-size: 1rem;
   line-height: 1.7;
 }
-
 .collection-page__banner {
   width: min(100%, 1200px);
   margin-top: 32px;
@@ -2309,6 +2326,7 @@ body.cart-open {
   height: clamp(220px, 30vw, 400px);
   object-fit: cover;
 }
+
 /* Collection product wrapper must not alter
    the existing product-card layout. */
 
@@ -2378,13 +2396,7 @@ body.cart-open {
   .shop-collections__link.is-active::after {
     bottom: -17px;
   }
-  .collection-page__banner {
-    margin-top: 24px;
-  }
 
-  .collection-page__banner img {
-    height: 240px;
-  }
 }
 
 
@@ -2401,12 +2413,13 @@ body.cart-open {
   .collection-page__header h1 {
     font-size: 2.75rem;
   }
-  .collection-page__banner img {
-    height: 190px;
-  }
+.collection-page__banner img {
+  height: 190px;
+}
+
 }
 /* =========================================================
-   PHASE 13.6  MOBILE STOREFRONT POLISH
+   PHASE 13.6 — MOBILE STOREFRONT POLISH
    ========================================================= */
 
 @media (max-width: 600px) {
@@ -2448,7 +2461,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   PHASE 13.8 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â POLICY / SOCIAL FOOTER
+   PHASE 13.8 — POLICY / SOCIAL FOOTER
    ========================================================= */
 
 .site-footer__social {
@@ -2472,7 +2485,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   PHASE 13.8 - POLICY PAGES
+   PHASE 13.8 — POLICY PAGES
    ========================================================= */
 
 .policy-page {
@@ -2566,6 +2579,65 @@ body.cart-open {
 }
 
 /* =========================================================
+   Policy Pages
+   ========================================================= */
+
+.policy-page .page-width {
+  width: 100%;
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+/* =========================================================
+   Policy Pages
+   ========================================================= */
+
+.policy-page .page-width {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-left: 32px;
+  padding-right: 32px;
+  box-sizing: border-box;
+}
+
+.policy-page__content {
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+  .policy-page__content {
+    padding: 48px 56px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+  }
+}
+
+@media (max-width: 767px) {
+  .policy-page .page-width {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .policy-page__content {
+    padding: 48px 56px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+	  margin-left: auto;
+  margin-right: auto;
+  }
+}
+
+/* =========================================================
    ABOUT PAGE
    ========================================================= */
 
@@ -2592,7 +2664,7 @@ body.cart-open {
       rgba(0, 0, 0, 0.15) 72%,
       rgba(0, 0, 0, 0.05) 100%
     ),
-    var(--about-hero-image);
+    url("../images/about/hero.jpg");
 
   background-size: cover;
   background-position: center;
@@ -2681,7 +2753,7 @@ body.cart-open {
   padding: 10px;
 }
 
-/* About story image ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â full bleed */
+/* About story image — full bleed */
 .about-story__image {
   position: relative;
   min-height: 560px;
@@ -2857,7 +2929,7 @@ body.cart-open {
         rgba(0, 0, 0, 0.62),
         rgba(0, 0, 0, 0.62)
       ),
-      var(--about-hero-image);
+      url("../images/about/hero.jpg");
     background-position: center;
 
   }
@@ -2893,7 +2965,7 @@ body.cart-open {
 
 }
 /* =========================================
-   ABOUT HERO ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â MOBILE
+   ABOUT HERO — MOBILE
    ========================================= */
 
 @media (max-width: 768px) {
@@ -2908,7 +2980,7 @@ body.cart-open {
         rgba(0, 0, 0, 0.40) 60%,
         rgba(0, 0, 0, 0.20) 100%
       ),
-      var(--about-hero-image);
+      url("/assets/images/about/hero.jpg");
 
     background-size: cover;
     background-position: center center;
@@ -2927,7 +2999,7 @@ body.cart-open {
         rgba(0, 0, 0, 0.62),
         rgba(0, 0, 0, 0.62)
       ),
-      var(--about-hero-image);
+      url("../images/about/about-hero.jpg");
 
     background-position: center;
   }
@@ -2951,6 +3023,66 @@ body.cart-open {
 
 }
 
+/* =========================================
+   ABOUT PAGE — VALUE CARD BACKGROUNDS
+   ========================================= */
+
+.about-value-card {
+  min-height: 220px;
+  padding: 32px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: #111;
+}
+
+.about-value-card__number {
+  display: block;
+  margin-bottom: 40px;
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.about-value-card h3 {
+  margin: 0 0 10px;
+  color: #fff;
+}
+
+.about-value-card p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+
+/* =========================================
+   ABOUT VALUE CARDS — RESET
+   ========================================= */
+
+.about-value-card,
+.about-value-card:nth-child(1),
+.about-value-card:nth-child(2),
+.about-value-card:nth-child(3) {
+  background-image: none;
+  background-color: #111;
+  background-position: initial;
+  background-size: initial;
+  background-repeat: initial;
+}
+
+/* Remove image overlays if we added them */
+.about-value-card::before {
+  display: none;
+}
+
+/* Restore normal content positioning */
+.about-value-card > * {
+  position: relative;
+  z-index: auto;
+}
+
+.about-value-card h3,
+.about-value-card p {
+  color: #fff;
+}
 
 /* =========================================
    CONTACT PAGE
@@ -3209,41 +3341,100 @@ body.cart-open {
 
 }
 
+/* ========================================
+   PINNACLE FITNESS — HOME HERO
+   ======================================== */
 
-
-/* =========================================================
-   Policy Pages
-   ========================================================= */
-
-.policy-page .page-width {
-  width: 100%;
-  max-width: 1100px;
-  margin: 0 auto;
-  padding-left: 32px;
-  padding-right: 32px;
-  box-sizing: border-box;
+.home-hero__content {
+  position: relative;
+  z-index: 2;
 }
 
-.policy-page__content {
-  width: 100%;
-  margin: 0 auto;
-  box-sizing: border-box;
+/* NEW COLLECTION */
+.home-eyebrow {
+  margin: 0 0 12px;
+
+  font-family: "Arial Narrow", "Arial", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+
+  color: #d6a83c;
+
+  text-shadow:
+    1px 1px 2px rgba(0, 0, 0, 0.8);
 }
 
-@media (min-width: 768px) {
-  .policy-page__content {
-    padding: 48px 56px;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+
+/* MAIN HERO HEADLINE */
+.home-hero__content h1 {
+  margin: 0;
+
+  font-family: Impact, "Arial Black", sans-serif;
+  font-size: clamp(3.5rem, 6vw, 6.75rem);
+  font-weight: 900;
+
+  line-height: 0.9;
+  letter-spacing: -0.025em;
+
+  text-transform: uppercase;
+
+  color: #f5f5f5;
+
+  /* Aggressive athletic lean */
+  transform: skew(-4deg);
+  transform-origin: left center;
+
+  /* Gives the lettering depth against the photo */
+  text-shadow:
+    2px 2px 0 #111,
+    4px 4px 0 rgba(0, 0, 0, 0.45),
+    7px 7px 18px rgba(0, 0, 0, 0.65);
+}
+
+
+/* SUPPORTING COPY */
+.home-hero__text {
+  max-width: 540px;
+  margin: 24px 0 28px;
+
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.5;
+
+  letter-spacing: 0.025em;
+
+  color: rgba(255, 255, 255, 0.92);
+
+  text-shadow:
+    1px 1px 4px rgba(0, 0, 0, 0.9);
+}
+
+
+/* CTA */
+.home-hero__button {
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+
+/* MOBILE */
+@media (max-width: 768px) {
+
+  .home-hero__content h1 {
+    font-size: clamp(3rem, 13vw, 5rem);
+    line-height: 0.92;
+  }
+
+  .home-eyebrow {
+    font-size: 0.75rem;
+  }
+
+  .home-hero__text {
+    max-width: 90%;
+    font-size: 0.95rem;
   }
 }
-
-@media (max-width: 767px) {
-  .policy-page .page-width {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-}
-`r`n
-/* =========================================================

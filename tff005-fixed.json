@@ -1,0 +1,136 @@
+﻿{
+  "id": "TFF-005",
+  "name": "Tattoos Fitness & Faith Tank Top | Stonewash Muscle Tee",
+  "variants": [
+    {
+      "sku": "TFF-005-ASH-STONE-XS",
+      "price": 3999,
+      "options": {
+        "color": "Ash Stone",
+        "size": "XS"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79316
+      }
+    },
+    {
+      "sku": "TFF-005-ASH-STONE-XL",
+      "price": 3999,
+      "options": {
+        "color": "Ash Stone",
+        "size": "XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79320
+      }
+    },
+    {
+      "sku": "TFF-005-BLACK-STONE-XS",
+      "price": 3999,
+      "options": {
+        "color": "Black Stone",
+        "size": "XS"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79328
+      }
+    },
+    {
+      "sku": "TFF-005-BLACK-STONE-XL",
+      "price": 3999,
+      "options": {
+        "color": "Black Stone",
+        "size": "XL"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79332
+      }
+    },
+    {
+      "sku": "TFF-005-ASH-STONE-M",
+      "price": 3999,
+      "options": {
+        "color": "Ash Stone",
+        "size": "M"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79318
+      }
+    },
+    {
+      "sku": "TFF-005-BLACK-STONE-M",
+      "price": 3999,
+      "options": {
+        "color": "Black Stone",
+        "size": "M"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79330
+      }
+    },
+    {
+      "sku": "TFF-005-BLACK-STONE-L",
+      "price": 3999,
+      "options": {
+        "color": "Black Stone",
+        "size": "L"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79331
+      }
+    },
+    {
+      "sku": "TFF-005-ASH-STONE-S",
+      "price": 3999,
+      "options": {
+        "color": "Ash Stone",
+        "size": "S"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79317
+      }
+    },
+    {
+      "sku": "TFF-005-ASH-STONE-L",
+      "price": 3999,
+      "options": {
+        "color": "Ash Stone",
+        "size": "L"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79319
+      }
+    },
+    {
+      "sku": "TFF-005-BLACK-STONE-S",
+      "price": 3999,
+      "options": {
+        "color": "Black Stone",
+        "size": "S"
+      },
+      "fulfillment": {
+        "provider": "printify",
+        "productId": "6ac50e19d92ae2d7fc09eb13",
+        "variantId": 79329
+      }
+    }
+  ]
+}

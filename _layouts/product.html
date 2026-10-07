@@ -29,7 +29,7 @@ layout: default
           <div class="product-gallery__main">
             <img
               id="product-main-image"
-              src="{{ page.images[0] | relative_url }}"
+              src="{{ page.image | default: page.images[0] | relative_url }}"
               alt="{{ page.title }}"
             >
           </div>
@@ -201,7 +201,7 @@ layout: default
           data-product-id="{{ page.product_id }}"
           data-product-title="{{ page.title }}"
           data-product-url="{{ page.url | relative_url }}"
-          data-product-image="{{ page.images[0] | relative_url }}"
+          data-product-image="{{ page.image | default: page.images[0] | relative_url }}"
         >
           Add to Bag
         </button>

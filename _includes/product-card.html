@@ -1,3 +1,4 @@
+{% assign catalog_product = site.data["commerce-catalog"][product.product_id] %}
 <article class="product-card">
 
   <a
@@ -13,9 +14,9 @@
         </span>
       {% endif %}
 
-      {% if product.images and product.images.size > 0 %}
+      {% if product.image or product.images.size > 0 %}
         <img
-          src="{{ product.images[0] | relative_url }}"
+          src="{{ product.image | default: product.images[0] | relative_url }}"
           alt="{{ product.title }}"
           class="product-card__image"
           loading="lazy"
@@ -39,7 +40,7 @@
       {% if product.compare_at_price %}
         <span class="product-card__price-current">
           {{ site.data.store.store.currency_symbol }}
-          {{ product.price }}
+          {{ catalog_product.price | default: product.price }}
         </span>
 
         <span class="product-card__price-compare">
@@ -51,7 +52,7 @@
 
         <span class="product-card__price-current">
           {{ site.data.store.store.currency_symbol }}
-          {{ product.price }}
+          {{ catalog_product.price | default: product.price }}
         </span>
 
       {% endif %}
