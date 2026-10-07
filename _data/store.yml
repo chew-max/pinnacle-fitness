@@ -59,6 +59,11 @@ collections:
     description: "Everyday tees and apparel for wommen."
     image: ""
     
+  - handle: hats
+    title: "HATS"
+    description: "Everyday tees and apparel for wommen."
+    image: ""    
+    
   - handle: tattoos-fitness-faith
     title: "Tattoos Fitness Faith"
     description: "Everyday tees and apparel for Tatted Believers."

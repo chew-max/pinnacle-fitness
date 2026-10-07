@@ -2515,4 +2515,76 @@
       }
     ]
   }
+},
+  "FLH-001": {
+    "product_id": "FLH-001",
+    "name": "Faith Leather Patch Cap | Baseball Hat with Rectangular Patch",
+    "price": 34.99,
+    "price_cents": 3499,
+    "option_names": [
+      "size",
+      "color",
+      "shape"
+    ],
+    "option_values": {
+      "size": [
+        "One size"
+      ],
+      "color": [
+        "Red / Black / Light Brown patch",
+        "Black / White / Light Brown patch"
+      ],
+      "shape": [
+        "Rectangle"
+      ]
+    },
+    "variant_index": {
+      "One size||Red / Black / Light Brown patch||Rectangle": {
+        "sku": "FLH-001-ONE-SIZE-RED-BLACK-LIGHT-BROWN-PATCH-RECTANGLE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "size": "One size",
+          "color": "Red / Black / Light Brown patch",
+          "shape": "Rectangle"
+        },
+        "available": true
+      },
+      "One size||Black / White / Light Brown patch||Rectangle": {
+        "sku": "FLH-001-ONE-SIZE-BLACK-WHITE-LIGHT-BROWN-PATCH-RECTANGLE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "size": "One size",
+          "color": "Black / White / Light Brown patch",
+          "shape": "Rectangle"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "FLH-001-ONE-SIZE-RED-BLACK-LIGHT-BROWN-PATCH-RECTANGLE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "size": "One size",
+          "color": "Red / Black / Light Brown patch",
+          "shape": "Rectangle"
+        },
+        "available": true
+      },
+      {
+        "sku": "FLH-001-ONE-SIZE-BLACK-WHITE-LIGHT-BROWN-PATCH-RECTANGLE",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "size": "One size",
+          "color": "Black / White / Light Brown patch",
+          "shape": "Rectangle"
+        },
+        "available": true
+      }
+    ]
+  }
 }
