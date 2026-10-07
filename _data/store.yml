@@ -64,6 +64,10 @@ collections:
     description: "Everyday tees and apparel for Tatted Believers."
     image: ""
     
+  - handle: wakeup-worship-workout
+    title: "Wakeup Worship Workout"
+    description: "Everyday tees and apparel for Motivated Believers."
+    image: ""
 
 homepage:
   hero:
