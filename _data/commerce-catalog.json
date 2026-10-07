@@ -1609,5 +1609,910 @@
         "available": true
       }
     ]
+  },
+  "WWW-001": {
+    "product_id": "WWW-001",
+    "name": "Wake Up, Worship & Workout T-Shirt | Graphic Back Text Tee",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Red",
+        "Sport Grey",
+        "Ash"
+      ],
+      "size": [
+        "XL",
+        "M",
+        "S",
+        "L",
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ]
+    },
+    "variant_index": {
+      "Red||XL": {
+        "sku": "WWW-001-RED-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Sport Grey||XL": {
+        "sku": "WWW-001-SPORT-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Red||M": {
+        "sku": "WWW-001-RED-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Ash||XL": {
+        "sku": "WWW-001-ASH-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Ash||S": {
+        "sku": "WWW-001-ASH-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sport Grey||M": {
+        "sku": "WWW-001-SPORT-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Ash||L": {
+        "sku": "WWW-001-ASH-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Ash||M": {
+        "sku": "WWW-001-ASH-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Red||S": {
+        "sku": "WWW-001-RED-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sport Grey||L": {
+        "sku": "WWW-001-SPORT-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Red||L": {
+        "sku": "WWW-001-RED-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Sport Grey||S": {
+        "sku": "WWW-001-SPORT-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Sport Grey||2XL": {
+        "sku": "WWW-001-SPORT-GREY-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Ash||2XL": {
+        "sku": "WWW-001-ASH-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Red||2XL": {
+        "sku": "WWW-001-RED-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      "Ash||3XL": {
+        "sku": "WWW-001-ASH-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      "Sport Grey||3XL": {
+        "sku": "WWW-001-SPORT-GREY-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      "Sport Grey||4XL": {
+        "sku": "WWW-001-SPORT-GREY-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      "Ash||4XL": {
+        "sku": "WWW-001-ASH-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      "Sport Grey||5XL": {
+        "sku": "WWW-001-SPORT-GREY-5XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "5XL"
+        },
+        "available": true
+      },
+      "Ash||5XL": {
+        "sku": "WWW-001-ASH-5XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "5XL"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "WWW-001-RED-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-SPORT-GREY-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-RED-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-ASH-XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-ASH-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-SPORT-GREY-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-ASH-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-ASH-M",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-RED-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-SPORT-GREY-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-RED-L",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-SPORT-GREY-S",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-SPORT-GREY-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-ASH-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-RED-2XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Red",
+          "size": "2XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-ASH-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-SPORT-GREY-3XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "3XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-SPORT-GREY-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-ASH-4XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "4XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-SPORT-GREY-5XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Sport Grey",
+          "size": "5XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-001-ASH-5XL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Ash",
+          "size": "5XL"
+        },
+        "available": true
+      }
+    ]
+  },
+  "WWW-002": {
+    "product_id": "WWW-002",
+    "name": "Wake Up, Worship & Workout Muscle Tank | Graphic Back Cross",
+    "price": 34.99,
+    "price_cents": 3499,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "size": [
+        "Natural",
+        "Dark Grey Heather"
+      ]
+    },
+    "variant_index": {
+      "S||Natural": {
+        "sku": "WWW-002-S-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "S",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      "M||Natural": {
+        "sku": "WWW-002-M-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "M",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      "L||Natural": {
+        "sku": "WWW-002-L-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "L",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      "XL||Natural": {
+        "sku": "WWW-002-XL-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "XL",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      "S||Dark Grey Heather": {
+        "sku": "WWW-002-S-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "S",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      },
+      "M||Dark Grey Heather": {
+        "sku": "WWW-002-M-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "M",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      },
+      "L||Dark Grey Heather": {
+        "sku": "WWW-002-L-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "L",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      },
+      "XL||Dark Grey Heather": {
+        "sku": "WWW-002-XL-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "XL",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      },
+      "2XL||Natural": {
+        "sku": "WWW-002-2XL-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "2XL",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      "2XL||Dark Grey Heather": {
+        "sku": "WWW-002-2XL-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "2XL",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "WWW-002-S-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "S",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-M-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "M",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-L-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "L",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-XL-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "XL",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-S-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "S",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-M-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "M",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-L-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "L",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-XL-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "XL",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-2XL-NATURAL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "2XL",
+          "size": "Natural"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-002-2XL-DARK-GREY-HEATHER",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "2XL",
+          "size": "Dark Grey Heather"
+        },
+        "available": true
+      }
+    ]
+  },
+  "WWW-003": {
+    "product_id": "WWW-003",
+    "name": "Wake Up, Worship & Workout Tank Top | Stonewash Muscle Tee",
+    "price": 34.99,
+    "price_cents": 3499,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "Ash Stone",
+        "Black Stone"
+      ],
+      "size": [
+        "XS",
+        "XL",
+        "M",
+        "L",
+        "S"
+      ]
+    },
+    "variant_index": {
+      "Ash Stone||XS": {
+        "sku": "WWW-003-ASH-STONE-XS",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "XS"
+        },
+        "available": true
+      },
+      "Ash Stone||XL": {
+        "sku": "WWW-003-ASH-STONE-XL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Black Stone||XS": {
+        "sku": "WWW-003-BLACK-STONE-XS",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "XS"
+        },
+        "available": true
+      },
+      "Black Stone||XL": {
+        "sku": "WWW-003-BLACK-STONE-XL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      "Ash Stone||M": {
+        "sku": "WWW-003-ASH-STONE-M",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Black Stone||M": {
+        "sku": "WWW-003-BLACK-STONE-M",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "M"
+        },
+        "available": true
+      },
+      "Black Stone||L": {
+        "sku": "WWW-003-BLACK-STONE-L",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Ash Stone||S": {
+        "sku": "WWW-003-ASH-STONE-S",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "S"
+        },
+        "available": true
+      },
+      "Ash Stone||L": {
+        "sku": "WWW-003-ASH-STONE-L",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "L"
+        },
+        "available": true
+      },
+      "Black Stone||S": {
+        "sku": "WWW-003-BLACK-STONE-S",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "S"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "WWW-003-ASH-STONE-XS",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "XS"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-ASH-STONE-XL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-BLACK-STONE-XS",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "XS"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-BLACK-STONE-XL",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "XL"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-ASH-STONE-M",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-BLACK-STONE-M",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "M"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-BLACK-STONE-L",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-ASH-STONE-S",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "S"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-ASH-STONE-L",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Ash Stone",
+          "size": "L"
+        },
+        "available": true
+      },
+      {
+        "sku": "WWW-003-BLACK-STONE-S",
+        "price": 34.99,
+        "price_cents": 3499,
+        "options": {
+          "color": "Black Stone",
+          "size": "S"
+        },
+        "available": true
+      }
+    ]
   }
 }
