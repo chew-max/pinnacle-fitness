@@ -52,12 +52,18 @@ collections:
   - handle: mens
     title: "MENS"
     description: "Everyday tees and apparel for men."
-    image: "/assets/images/collections/shirts.png"
+    image: ""
 
   - handle: womens
     title: "WOMENS"
     description: "Everyday tees and apparel for wommen."
-    image: "/assets/images/collections/drinkware.png"
+    image: ""
+    
+  - handle: tattoos-fitness-faith
+    title: "Tattoos Fitness Faith"
+    description: "Everyday tees and apparel for Tatted Believers."
+    image: ""
+    
 
 homepage:
   hero:
