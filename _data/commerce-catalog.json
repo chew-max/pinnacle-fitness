@@ -2514,9 +2514,8 @@
         "available": true
       }
     ]
-  }
-},
-  "FLH-001": {
+  },
+    "FLH-001": {
     "product_id": "FLH-001",
     "name": "Faith Leather Patch Cap | Baseball Hat with Rectangular Patch",
     "price": 34.99,
@@ -2588,3 +2587,4 @@
     ]
   }
 }
+
