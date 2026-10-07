@@ -1495,32 +1495,116 @@
     ],
     "option_values": {
       "color": [
-        "White stitching"
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
       ],
       "size": [
-        "L"
+        "White stitching"
       ]
     },
     "variant_index": {
-      "White stitching||L": {
-        "sku": "TFF-007-WHITE-STITCHING-L",
+      "XS||White stitching": {
+        "sku": "TFF-007-XS-WHITE-STITCHING",
         "price": 49.99,
         "price_cents": 4999,
         "options": {
-          "color": "White stitching",
-          "size": "L"
+          "color": "XS",
+          "size": "White stitching"
+        },
+        "available": true
+      },
+      "S||White stitching": {
+        "sku": "TFF-007-S-WHITE-STITCHING",
+        "price": 49.99,
+        "price_cents": 4999,
+        "options": {
+          "color": "S",
+          "size": "White stitching"
+        },
+        "available": true
+      },
+      "M||White stitching": {
+        "sku": "TFF-007-M-WHITE-STITCHING",
+        "price": 49.99,
+        "price_cents": 4999,
+        "options": {
+          "color": "M",
+          "size": "White stitching"
+        },
+        "available": true
+      },
+      "L||White stitching": {
+        "sku": "TFF-007-L-WHITE-STITCHING",
+        "price": 49.99,
+        "price_cents": 4999,
+        "options": {
+          "color": "L",
+          "size": "White stitching"
+        },
+        "available": true
+      },
+      "XL||White stitching": {
+        "sku": "TFF-007-XL-WHITE-STITCHING",
+        "price": 49.99,
+        "price_cents": 4999,
+        "options": {
+          "color": "XL",
+          "size": "White stitching"
         },
         "available": true
       }
     },
     "variants": [
       {
-        "sku": "TFF-007-WHITE-STITCHING-L",
+        "sku": "TFF-007-XS-WHITE-STITCHING",
         "price": 49.99,
         "price_cents": 4999,
         "options": {
-          "color": "White stitching",
-          "size": "L"
+          "color": "XS",
+          "size": "White stitching"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFF-007-S-WHITE-STITCHING",
+        "price": 49.99,
+        "price_cents": 4999,
+        "options": {
+          "color": "S",
+          "size": "White stitching"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFF-007-M-WHITE-STITCHING",
+        "price": 49.99,
+        "price_cents": 4999,
+        "options": {
+          "color": "M",
+          "size": "White stitching"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFF-007-L-WHITE-STITCHING",
+        "price": 49.99,
+        "price_cents": 4999,
+        "options": {
+          "color": "L",
+          "size": "White stitching"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFF-007-XL-WHITE-STITCHING",
+        "price": 49.99,
+        "price_cents": 4999,
+        "options": {
+          "color": "XL",
+          "size": "White stitching"
         },
         "available": true
       }
