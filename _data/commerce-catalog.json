@@ -10,15 +10,15 @@
     ],
     "option_values": {
       "color": [
-        "Red",
+        "Ash",
         "Sport Grey",
-        "Ash"
+		"Red"		
       ],
       "size": [
-        "XL",
         "M",
         "S",
         "L",
+        "XL",
         "2XL",
         "3XL",
         "4XL",
@@ -693,10 +693,10 @@
       ],
       "size": [
         "XS",
-        "XL",
+        "S",		
         "M",
         "L",
-        "S"
+        "XL"
       ]
     },
     "variant_index": {
@@ -918,11 +918,11 @@
         "White"
       ],
       "size": [
-        "XL",
-        "L",
         "XS",
         "S",
-        "M"
+        "M",
+        "L",
+        "XL"		
       ]
     },
     "variant_index": {
@@ -1046,10 +1046,10 @@
       ],
       "size": [
         "XS",
-        "XL",
+        "S",	
         "M",
         "L",
-        "S"
+        "XL"
       ]
     },
     "variant_index": {
