@@ -1,4 +1,4 @@
-﻿/* =========================================================
+/* =========================================================
    JEKYLL COMMERCE STARTER
    Global Design System
    ========================================================= */
@@ -2999,7 +2999,7 @@ body.cart-open {
         rgba(0, 0, 0, 0.62),
         rgba(0, 0, 0, 0.62)
       ),
-      url("../images/about/about-hero.png");
+      url("../images/about/hero.png");
 
     background-position: center;
   }
