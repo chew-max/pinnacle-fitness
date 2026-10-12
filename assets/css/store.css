@@ -1,4 +1,4 @@
-/* =========================================================
+﻿/* =========================================================
    JEKYLL COMMERCE STARTER
    Global Design System
    ========================================================= */
@@ -1516,7 +1516,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   Phase 13 — Homepage
+   Phase 13 â€” Homepage
    ========================================================= */
 
 .home-hero {
@@ -1814,7 +1814,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   Phase 13 — Checkout
+   Phase 13 â€” Checkout
    ========================================================= */
 
 .checkout-page {
@@ -2061,7 +2061,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   PHASE 13 — SHOP & PRODUCT POLISH
+   PHASE 13 â€” SHOP & PRODUCT POLISH
    ========================================================= */
 
 
@@ -2204,7 +2204,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   PHASE 13 — COLLECTIONS
+   PHASE 13 â€” COLLECTIONS
    ========================================================= */
 
 
@@ -2419,7 +2419,7 @@ body.cart-open {
 
 }
 /* =========================================================
-   PHASE 13.6 — MOBILE STOREFRONT POLISH
+   PHASE 13.6 â€” MOBILE STOREFRONT POLISH
    ========================================================= */
 
 @media (max-width: 600px) {
@@ -2461,7 +2461,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   PHASE 13.8 — POLICY / SOCIAL FOOTER
+   PHASE 13.8 â€” POLICY / SOCIAL FOOTER
    ========================================================= */
 
 .site-footer__social {
@@ -2485,7 +2485,7 @@ body.cart-open {
 }
 
 /* =========================================================
-   PHASE 13.8 — POLICY PAGES
+   PHASE 13.8 â€” POLICY PAGES
    ========================================================= */
 
 .policy-page {
@@ -2753,7 +2753,7 @@ body.cart-open {
   padding: 10px;
 }
 
-/* About story image — full bleed */
+/* About story image â€” full bleed */
 .about-story__image {
   position: relative;
   min-height: 560px;
@@ -2965,7 +2965,7 @@ body.cart-open {
 
 }
 /* =========================================
-   ABOUT HERO — MOBILE
+   ABOUT HERO â€” MOBILE
    ========================================= */
 
 @media (max-width: 768px) {
@@ -3024,7 +3024,7 @@ body.cart-open {
 }
 
 /* =========================================
-   ABOUT PAGE — VALUE CARD BACKGROUNDS
+   ABOUT PAGE â€” VALUE CARD BACKGROUNDS
    ========================================= */
 
 .about-value-card {
@@ -3054,7 +3054,7 @@ body.cart-open {
 
 
 /* =========================================
-   ABOUT VALUE CARDS — RESET
+   ABOUT VALUE CARDS â€” RESET
    ========================================= */
 
 .about-value-card,
@@ -3342,7 +3342,7 @@ body.cart-open {
 }
 
 /* ========================================
-   PINNACLE FITNESS — HOME HERO
+   PINNACLE FITNESS â€” HOME HERO
    ======================================== */
 
 .home-hero__content {
@@ -3445,3 +3445,27 @@ body.cart-open {
 .home-hero__overlay { position: absolute; inset: 0; z-index: 1; }
 .home-hero__content { position: relative; z-index: 2; }
 @media (prefers-reduced-motion: reduce) { .home-hero__video { display: none; } }
+
+/* Shop collections navigation dropdown */
+.main-navigation .nav-dropdown { position: relative; }
+.nav-dropdown__heading { display: flex; align-items: center; gap: 6px; }
+.nav-dropdown__toggle { display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 30px; padding: 0; border: 0; background: transparent; color: inherit; cursor: pointer; font: inherit; }
+.nav-dropdown__toggle[aria-expanded="true"] { transform: rotate(180deg); }
+.main-navigation .nav-dropdown__menu { display: none; position: absolute; top: 100%; left: 0; z-index: 110; min-width: 240px; margin: 0; padding: 10px 0; flex-direction: column; align-items: stretch; gap: 0; list-style: none; background: #fff; border: 1px solid #e8e8e8; box-shadow: 0 12px 28px rgba(0,0,0,.12); }
+.main-navigation .nav-dropdown.is-open > .nav-dropdown__menu { display: flex; } @media (min-width: 901px) and (hover: hover) { .main-navigation .nav-dropdown:hover > .nav-dropdown__menu { display: flex; } }
+.main-navigation .nav-dropdown__menu a { display: block; padding: 11px 18px; white-space: nowrap; font-size: .88rem; }
+.main-navigation .nav-dropdown__menu a::after { display: none; }
+.main-navigation .nav-dropdown__menu a:hover, .main-navigation .nav-dropdown__menu a:focus-visible { background: #f3f3f3; }
+@media (max-width: 900px) {
+.main-navigation .nav-dropdown__heading { justify-content: space-between; }
+.main-navigation .nav-dropdown__toggle { width: 44px; height: 44px; }
+.main-navigation .nav-dropdown__menu { position: static; min-width: 0; width: 100%; padding: 0 0 8px 18px; border: 0; box-shadow: none; background: transparent; }
+.main-navigation .nav-dropdown:not(.is-open) > .nav-dropdown__menu { display: none; }
+.main-navigation .nav-dropdown.is-open > .nav-dropdown__menu { display: flex; }
+.main-navigation .nav-dropdown__menu a { padding: 10px 0; white-space: normal; font-size: .92rem; }
+}
+
+
+/* Hide Shop dropdown arrow */
+.nav-dropdown__toggle { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.main-navigation .nav-dropdown:focus-within > .nav-dropdown__menu { display: flex; }
