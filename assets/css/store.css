@@ -2664,7 +2664,7 @@ body.cart-open {
       rgba(0, 0, 0, 0.15) 72%,
       rgba(0, 0, 0, 0.05) 100%
     ),
-    url("../images/about/hero.jpg");
+    url("../images/about/hero.png");
 
   background-size: cover;
   background-position: center;
@@ -2929,7 +2929,7 @@ body.cart-open {
         rgba(0, 0, 0, 0.62),
         rgba(0, 0, 0, 0.62)
       ),
-      url("../images/about/hero.jpg");
+      url("../images/about/hero.png");
     background-position: center;
 
   }
@@ -2980,7 +2980,7 @@ body.cart-open {
         rgba(0, 0, 0, 0.40) 60%,
         rgba(0, 0, 0, 0.20) 100%
       ),
-      url("/assets/images/about/hero.jpg");
+      url("/assets/images/about/hero.png");
 
     background-size: cover;
     background-position: center center;
@@ -2999,7 +2999,7 @@ body.cart-open {
         rgba(0, 0, 0, 0.62),
         rgba(0, 0, 0, 0.62)
       ),
-      url("../images/about/about-hero.jpg");
+      url("../images/about/about-hero.png");
 
     background-position: center;
   }
