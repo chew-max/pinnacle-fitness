@@ -3032,8 +3032,8 @@
       }
     ]
   },
-  "TTF-008": {
-    "product_id": "TTF-008",
+  "TFF-008": {
+    "product_id": "TFF-008",
     "name": "Tattoos Fitness Faith Stonewash Tank Top",
     "price": 39.99,
     "price_cents": 3999,
@@ -3056,7 +3056,7 @@
     },
     "variant_index": {
       "Ash Stone||XS": {
-        "sku": "TTF-008-ASH-STONE-XS",
+        "sku": "TFF-008-ASH-STONE-XS",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3066,7 +3066,7 @@
         "available": true
       },
       "Orchid Stone||L": {
-        "sku": "TTF-008-ORCHID-STONE-L",
+        "sku": "TFF-008-ORCHID-STONE-L",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3076,7 +3076,7 @@
         "available": true
       },
       "Orchid Stone||M": {
-        "sku": "TTF-008-ORCHID-STONE-M",
+        "sku": "TFF-008-ORCHID-STONE-M",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3086,7 +3086,7 @@
         "available": true
       },
       "Ash Stone||XL": {
-        "sku": "TTF-008-ASH-STONE-XL",
+        "sku": "TFF-008-ASH-STONE-XL",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3096,7 +3096,7 @@
         "available": true
       },
       "Ash Stone||M": {
-        "sku": "TTF-008-ASH-STONE-M",
+        "sku": "TFF-008-ASH-STONE-M",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3106,7 +3106,7 @@
         "available": true
       },
       "Orchid Stone||XS": {
-        "sku": "TTF-008-ORCHID-STONE-XS",
+        "sku": "TFF-008-ORCHID-STONE-XS",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3116,7 +3116,7 @@
         "available": true
       },
       "Ash Stone||S": {
-        "sku": "TTF-008-ASH-STONE-S",
+        "sku": "TFF-008-ASH-STONE-S",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3126,7 +3126,7 @@
         "available": true
       },
       "Orchid Stone||XL": {
-        "sku": "TTF-008-ORCHID-STONE-XL",
+        "sku": "TFF-008-ORCHID-STONE-XL",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3136,7 +3136,7 @@
         "available": true
       },
       "Ash Stone||L": {
-        "sku": "TTF-008-ASH-STONE-L",
+        "sku": "TFF-008-ASH-STONE-L",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3146,7 +3146,7 @@
         "available": true
       },
       "Orchid Stone||S": {
-        "sku": "TTF-008-ORCHID-STONE-S",
+        "sku": "TFF-008-ORCHID-STONE-S",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3158,7 +3158,7 @@
     },
     "variants": [
       {
-        "sku": "TTF-008-ASH-STONE-XS",
+        "sku": "TFF-008-ASH-STONE-XS",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3168,7 +3168,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ORCHID-STONE-L",
+        "sku": "TFF-008-ORCHID-STONE-L",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3178,7 +3178,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ORCHID-STONE-M",
+        "sku": "TFF-008-ORCHID-STONE-M",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3188,7 +3188,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ASH-STONE-XL",
+        "sku": "TFF-008-ASH-STONE-XL",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3198,7 +3198,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ASH-STONE-M",
+        "sku": "TFF-008-ASH-STONE-M",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3208,7 +3208,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ORCHID-STONE-XS",
+        "sku": "TFF-008-ORCHID-STONE-XS",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3218,7 +3218,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ASH-STONE-S",
+        "sku": "TFF-008-ASH-STONE-S",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3228,7 +3228,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ORCHID-STONE-XL",
+        "sku": "TFF-008-ORCHID-STONE-XL",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3238,7 +3238,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ASH-STONE-L",
+        "sku": "TFF-008-ASH-STONE-L",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
@@ -3248,7 +3248,7 @@
         "available": true
       },
       {
-        "sku": "TTF-008-ORCHID-STONE-S",
+        "sku": "TFF-008-ORCHID-STONE-S",
         "price": 39.99,
         "price_cents": 3999,
         "options": {
