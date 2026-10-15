@@ -61,8 +61,13 @@ collections:
     
   - handle: hats
     title: "HATS"
-    description: "Everyday tees and apparel for wommen."
+    description: "Everyday tees and appareL."
     image: ""    
+
+  - handle: tanks
+    title: "TANKS"
+    description: "Everyday tees and apparel."
+    image: ""   
     
   - handle: tattoos-fitness-faith
     title: "Tattoos Fitness Faith"
