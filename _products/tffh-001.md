@@ -28,11 +28,9 @@ images:
   - /assets/images/products/tattoos-fitness-faith-hat-001/green-white-right.jpg  
   - /assets/images/products/tattoos-fitness-faith-hat-001/green-white-girl.jpg
   - /assets/images/products/tattoos-fitness-faith-hat-001/hotpink-white-front.jpg
-  - /assets/images/products/tattoos-fitness-faith-hat-001/hotpink-white-right.jpg  
   - /assets/images/products/tattoos-fitness-faith-hat-001/hotpink-white-girl.jpg
   - /assets/images/products/tattoos-fitness-faith-hat-001/olive-white-front.jpg
-  - /assets/images/products/tattoos-fitness-faith-hat-001/olive-white-right.jpg  
-  - /assets/images/products/tattoos-fitness-faith-hat-001/olive-white-girl.jpg  
+  - /assets/images/products/tattoos-fitness-faith-hat-001/olive-white-side.jpg   
   - /assets/images/products/tattoos-fitness-faith-hat-001/pink-white-front.jpg
   - /assets/images/products/tattoos-fitness-faith-hat-001/pink-white-right.jpg  
   - /assets/images/products/tattoos-fitness-faith-hat-001/pink-white-girl.jpg  
@@ -41,7 +39,6 @@ images:
   - /assets/images/products/tattoos-fitness-faith-hat-001/skyblue-white-girl.jpg  
   - /assets/images/products/tattoos-fitness-faith-hat-001/navy-white-front.jpg
   - /assets/images/products/tattoos-fitness-faith-hat-001/navy-white-right.jpg  
-  - /assets/images/products/tattoos-fitness-faith-hat-001/navy-white-girl.jpg
   - /assets/images/products/tattoos-fitness-faith-hat-001/navy-white-back.jpg
 
 
