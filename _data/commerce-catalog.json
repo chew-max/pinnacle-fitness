@@ -4247,5 +4247,215 @@
         "available": true
       }
     ]
+  },
+  "TFFH-001": {
+    "product_id": "TFFH-001",
+    "name": "Tattoos Fitness Faith Foam Trucker Hat",
+    "price": 29.99,
+    "price_cents": 2999,
+    "option_names": [
+      "color",
+      "size"
+    ],
+    "option_values": {
+      "color": [
+        "White",
+        "Black/White",
+        "Light Pink/White",
+        "Blue/White",
+        "Royal / White / Royal",
+        "Navy / White / Navy",
+        "Dark Green / White / Dark Green",
+        "Hot Pink/ White/ Hot Pink",
+        "Kelly/ White/ Kelly"
+      ],
+      "size": [
+        "One size"
+      ]
+    },
+    "variant_index": {
+      "White||One size": {
+        "sku": "TFFH-001-WHITE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "One size"
+        },
+        "available": true
+      },
+      "Black/White||One size": {
+        "sku": "TFFH-001-ONE-SIZE-BLACK-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Black/White"
+        },
+        "available": true
+      },
+      "Light Pink/White||One size": {
+        "sku": "TFFH-001-LIGHT-PINK-WHITE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Light Pink/White",
+          "size": "One size"
+        },
+        "available": true
+      },
+      "Blue/White||One size": {
+        "sku": "TFFH-001-BLUE-WHITE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue/White",
+          "size": "One size"
+        },
+        "available": true
+      },
+      "Royal / White / Royal||One size": {
+        "sku": "TFFH-001-ONE-SIZE-ROYAL-WHITE-ROYAL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Royal / White / Royal"
+        },
+        "available": true
+      },
+      "Navy / White / Navy||One size": {
+        "sku": "TFFH-001-ONE-SIZE-NAVY-WHITE-NAVY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Navy / White / Navy"
+        },
+        "available": true
+      },
+      "Dark Green / White / Dark Green||One size": {
+        "sku": "TFFH-001-ONE-SIZE-DARK-GREEN-WHITE-DARK-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Dark Green / White / Dark Green"
+        },
+        "available": true
+      },
+      "Hot Pink/ White/ Hot Pink||One size": {
+        "sku": "TFFH-001-ONE-SIZE-HOT-PINK-WHITE-HOT-PINK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Hot Pink/ White/ Hot Pink"
+        },
+        "available": true
+      },
+      "Kelly/ White/ Kelly||One size": {
+        "sku": "TFFH-001-ONE-SIZE-KELLY-WHITE-KELLY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Kelly/ White/ Kelly"
+        },
+        "available": true
+      }
+    },
+    "variants": [
+      {
+        "sku": "TFFH-001-WHITE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "White",
+          "size": "One size"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFFH-001-ONE-SIZE-BLACK-WHITE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Black/White"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFFH-001-LIGHT-PINK-WHITE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Light Pink/White",
+          "size": "One size"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFFH-001-BLUE-WHITE-ONE-SIZE",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "color": "Blue/White",
+          "size": "One size"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFFH-001-ONE-SIZE-ROYAL-WHITE-ROYAL",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Royal / White / Royal"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFFH-001-ONE-SIZE-NAVY-WHITE-NAVY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Navy / White / Navy"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFFH-001-ONE-SIZE-DARK-GREEN-WHITE-DARK-GREEN",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Dark Green / White / Dark Green"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFFH-001-ONE-SIZE-HOT-PINK-WHITE-HOT-PINK",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Hot Pink/ White/ Hot Pink"
+        },
+        "available": true
+      },
+      {
+        "sku": "TFFH-001-ONE-SIZE-KELLY-WHITE-KELLY",
+        "price": 29.99,
+        "price_cents": 2999,
+        "options": {
+          "size": "One size",
+          "color": "Kelly/ White/ Kelly"
+        },
+        "available": true
+      }
+    ]
   }
 }
