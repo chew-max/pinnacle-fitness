@@ -80,6 +80,13 @@ collections:
     title: "WAKEUP WORSHIP WORKOUT"
     description: "Everyday tees and apparel for Motivated Believers."
     image: ""
+    
+  - handle: god-put-power
+    navigation_group: featured
+    title: "God PUT POWER"
+    description: "Everyday tees and apparel for Motivated Believers."
+    image: ""
+    
 
 homepage:
   hero:

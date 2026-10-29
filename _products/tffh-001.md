@@ -8,13 +8,14 @@ product_id: "TFFH-001"
 
 
 featured: false
-badge: "HATS"
+badge: "TATTOOS FITNESS FAITH COLLECTION"
 
 collections:
   - mens
   - womens
   - hats
   - best-sellers
+  - tattos-fitness-faith
 
 image: /assets/images/products/tattoos-fitness-faith-hat-001/black-white-girl.jpg
 
