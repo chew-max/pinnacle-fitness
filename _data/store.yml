@@ -61,12 +61,17 @@ collections:
     
   - handle: hats
     title: "HATS"
-    description: "Everyday tees and appareL."
-    image: ""    
+    description: "Everyday hats and appareL."
+    image: ""   
+    
+  - handle: shirts
+    title: "T-SHIRTS"
+    description: "Everyday tees and apparel."
+    image: ""   
 
   - handle: tanks
     title: "TANKS"
-    description: "Everyday tees and apparel."
+    description: "Everyday tanks and apparel."
     image: ""   
     
   - handle: faith-and-fitness
