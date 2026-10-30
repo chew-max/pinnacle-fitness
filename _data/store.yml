@@ -74,6 +74,11 @@ collections:
     description: "Everyday tanks and apparel."
     image: ""   
     
+  - handle: leggings
+    title: "LEGGINGS"
+    description: "Everyday tanks and apparel."
+    image: ""   
+    
   - handle: faith-and-fitness
     navigation_group: featured
     title: "FAITH & FITNESS COLLECTIONS"
