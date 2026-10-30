@@ -2,7 +2,7 @@
 layout: product
 
 title: 'Tattoos Fitness Faith Foam Trucker Hat'
-slug: tattos-fitness-faith-hat
+slug: tattos-fitness-faith-hat-001
 
 product_id: "TFFH-001"
 
@@ -15,7 +15,7 @@ collections:
   - womens
   - hats
   - best-sellers
-  - tattos-fitness-faith
+  - faith-and-fitness
 
 image: /assets/images/products/tattoos-fitness-faith-hat-001/black-white-girl.jpg
 

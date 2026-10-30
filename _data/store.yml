@@ -69,23 +69,12 @@ collections:
     description: "Everyday tees and apparel."
     image: ""   
     
-  - handle: tattoos-fitness-faith
+  - handle: faith-and-fitness
     navigation_group: featured
-    title: "TATTOOS FITNESS FAITH"
+    title: "FAITH & FITNESS"
     description: "Everyday tees and apparel for Tatted Believers."
     image: ""
-    
-  - handle: wakeup-worship-workout
-    navigation_group: featured
-    title: "WAKEUP WORSHIP WORKOUT"
-    description: "Everyday tees and apparel for Motivated Believers."
-    image: ""
-    
-  - handle: god-put-power
-    navigation_group: featured
-    title: "GOD PUT POWER"
-    description: "Everyday tees and apparel for Motivated Believers."
-    image: ""
+
     
 
 homepage:
