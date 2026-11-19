@@ -1,14 +1,14 @@
 ---
 layout: policy
 title: Terms of Service
-description: Terms governing use of the Pinnacle Home Goods storefront and purchases made through it.
+description: Terms governing use of the Pinnacle Fitness storefront and purchases made through it.
 ---
 
 ## About These Terms
 
-Pinnacle Home Goods is operated by MTH Pinnacle LLC.
+Pinnacle Fitness is operated by MTH Pinnacle LLC.
 
-These Terms of Service govern your use of the Pinnacle Home Goods storefront and purchases made through it. By accessing or using the storefront or placing an order, you agree to these Terms.
+These Terms of Service govern your use of the Pinnacle Fitness storefront and purchases made through it. By accessing or using the storefront or placing an order, you agree to these Terms.
 
 ## Use of This Store
 
@@ -22,7 +22,7 @@ We make reasonable efforts to accurately display product descriptions, images, c
 
 Actual colors and appearance may vary depending on displays, devices, production processes, and other factors.
 
-Many Pinnacle Home Goods products are made to order. Product availability, designs, options, pricing, and other storefront information may be changed or discontinued without notice.
+Many Pinnacle Fitness products are made to order. Product availability, designs, options, pricing, and other storefront information may be changed or discontinued without notice.
 
 ## Orders
 
@@ -60,7 +60,7 @@ Nothing in these Terms is intended to limit rights or remedies that cannot be wa
 
 ## Intellectual Property
 
-Unless otherwise indicated, the Pinnacle Home Goods name, branding, product designs, graphics, photographs, text, storefront content, and other original materials made available through this storefront are owned by or licensed to MTH Pinnacle LLC and may be protected by copyright, trademark, and other applicable intellectual-property laws.
+Unless otherwise indicated, the Pinnacle Fitness name, branding, product designs, graphics, photographs, text, storefront content, and other original materials made available through this storefront are owned by or licensed to MTH Pinnacle LLC and may be protected by copyright, trademark, and other applicable intellectual-property laws.
 
 You may use the storefront for personal, non-commercial shopping purposes.
 
@@ -82,7 +82,7 @@ We do not guarantee that the storefront will always be uninterrupted, error-free
 
 ## Limitation of Liability
 
-To the maximum extent permitted by applicable law, MTH Pinnacle LLC and Pinnacle Home Goods will not be liable for indirect, incidental, special, consequential, or punitive damages arising from use of the storefront or products purchased through it.
+To the maximum extent permitted by applicable law, MTH Pinnacle LLC and Pinnacle Fitness will not be liable for indirect, incidental, special, consequential, or punitive damages arising from use of the storefront or products purchased through it.
 
 Nothing in these Terms excludes or limits liability that cannot lawfully be excluded or limited.
 
